@@ -6,5 +6,7 @@ Goal: be able to understand conceptually the implementation of some well underst
 
 https://pennylane.ai/qml/demonstrations
 
+TODO: run on Braket
+
 * QFT
 * Grover's algorithm
